@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+*{
+  font-family: 'Lato',sans-serif;
+}
+
+h1{
+  font-family: 'Montserrat';
+}
+
+#table-sort > thead > tr:hover{
+  cursor: pointer;
+}
